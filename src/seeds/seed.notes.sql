@@ -1,0 +1,15 @@
+insert into notes ("folderId", content, date_modified, note_name) values ('efd7deeb-391b-4c20-ad8e-e14f05b912cb', 'Dickens Group', '2020-07-09 08:32:55', 'Daihatsu');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', null, '2020-04-29 11:55:15', 'GMC');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', null, '2019-09-26 01:33:10', 'BMW');
+insert into notes ("folderId", content, date_modified, note_name) values ('1f55b7a7-9f7c-469c-91d9-0708b9db0511', null, '2019-09-06 05:54:18', 'Nissan');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', 'Rosenbaum LLC', '2020-03-20 09:05:53', 'Mitsubishi');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', 'Kulas, Daugherty and Balistreri', '2019-10-16 19:27:25', 'Volkswagen');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', 'Bruen LLC', '2019-12-30 10:23:37', 'Austin');
+insert into notes ("folderId", content, date_modified, note_name) values ('1f55b7a7-9f7c-469c-91d9-0708b9db0511', null, '2019-12-11 23:59:14', 'Oldsmobile');
+insert into notes ("folderId", content, date_modified, note_name) values ('efd7deeb-391b-4c20-ad8e-e14f05b912cb', null, '2020-08-07 05:38:04', 'Nissan');
+insert into notes ("folderId", content, date_modified, note_name) values ('1f55b7a7-9f7c-469c-91d9-0708b9db0511', 'Wintheiser, Kirlin and Macejkovic', '2019-10-18 04:07:54', 'Ford');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', 'Orn-O''Reilly', '2019-08-19 08:14:01', 'Chevrolet');
+insert into notes ("folderId", content, date_modified, note_name) values ('efd7deeb-391b-4c20-ad8e-e14f05b912cb', 'Torp Group', '2019-08-29 15:10:42', 'Buick');
+insert into notes ("folderId", content, date_modified, note_name) values ('1f55b7a7-9f7c-469c-91d9-0708b9db0511', 'Rath, Vandervort and Roob', '2020-06-08 22:17:11', 'GMC');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', 'Kilback, Robel and Wiza', '2019-12-24 05:21:15', 'Toyota');
+insert into notes ("folderId", content, date_modified, note_name) values ('6a105a31-ced2-4232-9370-de9cc2d4f6ac', null, '2020-07-29 17:53:13', 'Mercury');
